@@ -1,0 +1,328 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.hh1 {position: relative;
+    font-size: 3vw;
+    font-weight: bold;
+    top: -20px;
+    left: 40%;
+    
+    
+}
+.kl {
+    position: relative;
+    right: 60%;
+}
+.kp {
+    position: relative;
+}
+.kp:hover {
+    color: blue;
+    font-style: underline;
+}
+.kll {
+    position: relative;
+    left: 5%;
+}
+.mkk {
+    position: relative;
+    font-size: 1.8vw;
+    top: 28px;
+    
+}
+.nn {font-size:6.3vw;
+    top: px;
+    position: relative;
+    display: flex;
+    text-align: center;
+    
+    
+    
+   
+    
+}
+.tp {
+    position: relative;
+    top: 5vh;
+}
+.mk {
+    position: relative;
+    font-size: 1.8vw;
+    top: -63px;
+}
+.bt1 {position: relative;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(42, 223, 42);
+    border-radius: 8px;
+}
+.bt1:hover {
+    background-color: black;
+    color: rgb(42, 223, 42);
+    border: 1px solid rgb(42, 223, 42);
+    transition: 0.5s ease-in-out;
+}
+.div1 {
+    position: relative;
+    left: 18vw;
+    top: -65px;
+}
+.mn {
+    position: relative;
+    top: -53px;
+}
+.ft1 {
+    font-size: 3.7rem;
+    position: relative;
+    top: -35px;
+    background-color: aqua;
+    border-radius: 25px;
+
+}
+.gt {
+    color: rgb(42, 223, 42);
+    font-weight: bold;
+    font-size: 5vw;
+    margin-top: -290px;
+}
+.kj {
+    
+    background-color:black;
+    width: 120px;
+    line-height: 40px;
+    top: -147px;
+    position: relative;
+    top: px;
+
+}
+.ty {
+    position: relative;
+    height: 20px;
+    width: 20px;
+    
+    left: 95px;
+    font-size: 1.3rem;
+    color: white;
+    top: -10px;
+}
+.bt2 {
+    height: 20px;
+    width: 20px;
+    background-color: aqua;
+}
+.df {
+    position: relative;
+    left: 90px;
+    top: -130px;
+}
+.ic {
+    position: relative;
+    top: -9px;
+}
+
+.op {
+    position: absolute;
+    display: flex;
+}
+.bt3 {
+    height: 40px;
+    width: 100px;
+    border: 1px solid blue;
+    border-radius: 15px;
+    position: relative;
+    top: 50px;
+    color: blue;
+}
+.bt3:hover {
+    background-color: black;
+    border: 2px solid rgb(40, 195, 40);
+    color: rgb(40, 195, 40);
+}
+
+.sui {
+    color: blue;
+    font-size: 1.3rem;
+    position: relative;
+    top: 10px;
+}
+.gt2 {
+    color: blue;
+    position: relative;
+    top: 15px;
+}
+.ht {
+    opacity: 0.6;
+}
+.bng {
+    background:linear-gradient(#308269, #2da51f);
+
+}
+.bng1 {
+    background:linear-gradient(#308269, #2da51f);
+    display: flex;
+    flex-direction: column;
+    
+}
+.bnn {
+    background-color: #272F3D;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px 
+}
+.bnn1 {
+    
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px 
+}
+.ml {
+    color: #169542;;
+    
+}
+.mll {
+    background-color: #169542;
+}
+.log {
+    color: #169542;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.kuy {
+    height: 60px;
+    width: 80px;
+    
+    position: relative;
+    top:-185px;
+    background-color: #6c24e0;
+    border-radius: 20px;
+    color: white;
+    z-index: 50;
+
+}
+.bol {
+    color: #169542;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+input {
+    border: 0;
+    outline-style: none;
+    border-radius: 5px;
+}
+.bol {
+    color: #169542;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+input {
+    border: 0;
+    outline-style: none;
+    border-radius: 5px;
+}
+.btt {
+    background-color: #169542;
+    border-radius: 4px;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 1.3rem;
+}
+.brt1 {
+   color: white;
+   height:40px;
+   width: 100px;
+   background-color: #169542;
+   border-radius: 6px;
+}
+.yu {
+    overflow-y: auto;
+    width: 88%;
+    position: relative;
+    left: 30px;
+}
+.sar {
+    color: #169542; 
+    cursor: pointer;
+}
+.jj {
+    background-color: #2da51f;
+}
+.ggg {
+    display: flex;
+    flex-direction: column;
+
+    box-shadow: 1px 2px 3px, -1px -2px 3px;
+    border-radius: 5px;
+}
+.gggg {
+
+    box-shadow: 1px 2px 3px, -1px -2px 3px;
+    border-radius: 5px;
+}
+.tr {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.ggg:hover {
+    scale: 1.03;
+    transition: 0.5s ease-in-out;
+}
+.bb {
+    font-size: 1.7rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bt4 {
+    height: 40px;
+    width: 150px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: blue;
+}
+.bt5 {
+    height: 40px;
+    width: 150px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: blue;
+}
+.bt6 {
+    height: 40px;
+    width: 120px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: blue;
+}
+.bt4:hover {
+    background-color: blue;
+    color: white;
+}
+.bt5:hover {
+    background-color: blue;
+    color: white;
+}
+.bt6:hover {
+    background-color: blue;
+    color: white;
+}
+.kay {
+    background-color: #272F3D;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+}
+.buy {
+    font-size: 1.4rem;
+    
+}
+.bv {
+    background-color: white;
+    position: relative;
+    left: 176px;
+    top: 29px;
+    border-top-right-radius: 4px;
+}
